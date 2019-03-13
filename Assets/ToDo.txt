@@ -1,0 +1,2 @@
+Todo:
+Make ball normal size but no standing on it
